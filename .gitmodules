@@ -1,0 +1,3 @@
+[submodule "plugins/dashboards"]
+	path = plugins/dashboards
+	url = https://github.com/gewkah666/hermes-dashboards-plugin.git
